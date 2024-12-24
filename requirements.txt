@@ -1,0 +1,5 @@
+exif
+black
+django<4.1
+psycopg2-binary
+pandas
